@@ -53,7 +53,7 @@ class hijake344(HackingTool):
     INSTALL_COMMANDS = [
         "sudo git clone https://github.com/crypticterminal/hijake344.git"]
     RUN_COMMANDS = ["cd hijake && bash hijake.sh"]
-    PROJECT_URL = "https://github.com/crypticterminal/EvilApp"
+    PROJECT_URL = "https://github.com/crypticterminal/hijake344"
 
 
 class AndroidAttackTools(HackingToolsCollection):
